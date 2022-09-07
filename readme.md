@@ -10,6 +10,6 @@
 
 # Time taken to finish this project is 3 hours.
 
-[Live link for Project-10]()
+[Live link for Project-10](https://cute-biscuit-baae4b.netlify.app/)
 
 
